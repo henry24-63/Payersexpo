@@ -1,0 +1,6 @@
+{
+  "name": "Embed Player",
+  "description": "Stream and test video embeds, iframe player links, and web media with full controls and fullscreen support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
